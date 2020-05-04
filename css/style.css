@@ -29,6 +29,7 @@ nav>ul>li>a {
     text-transform: uppercase;
     margin: 15px;
     padding-top: 15px;
+    transition: all .5s;
 }
 nav>ul>li>a:hover {
     -moz-transform: scale(1.5);
